@@ -1,0 +1,15 @@
+{
+  "name": "genpark-weighted-borda-count-preference-aggregator-skill",
+  "version": "1.0.0",
+  "description": "Weighted Borda count and Condorcet preference aggregation engine ranking agent proposals.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "borda-count",
+    "preference-aggregation",
+    "condorcet",
+    "voting-theory",
+    "multi-agent"
+  ]
+}
